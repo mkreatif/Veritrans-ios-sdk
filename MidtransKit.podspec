@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name             = "MidtransKit"
-s.version          = "1.22.0"
+s.version          = "1.22.1"
 s.summary          = "Veritrans mobile SDK beta version"
 s.homepage         = "https://veritrans.co.id/"
 s.license          = 'MIT'
